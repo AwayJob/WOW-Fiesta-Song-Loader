@@ -1,9 +1,9 @@
-# WOW! Fiesta Song Loader for Windows
-For adding karaoke MTV songs on USB flash drive or external hard drive.
+<p align="center"><img src="https://wowfiesta.com/image/cache/WF-LOGO-2-2823x1467.png" alt="WOW Logo" height="128"></p>
 
-MD5: `c88c599710932a5e23216db5f077bf78`
+<h1 align="center">WOW! Fiesta Song Loader for Windows</h1>
 
-SHA-256: `b012c6a48a9d2190d2c9f402cdc79d2b4bc1353802f01409389c052d3b246862`
+<p align="center">For adding karaoke MTV songs on USB flash drive or external hard drive.</p>
+<hr>
 
 ## **1. Install the Song Loader App for Windows**
 
@@ -122,10 +122,8 @@ Make sure the computer is connected to the Internet before accessing and adding 
 
 ![image](https://github.com/AwayJob/WOW-Fiesta-Song-Loader/assets/66241829/8e61102e-945e-4e80-947d-ee3d62f30b0b)
 
-# Troubleshooting
-| Issue | Solution(s) |
+# File Checksums
+| Algorithm | Hash |
 | -- | -- |
-| Video background is black | Check if the background file is in the folder named "MIDI in your USB storage device. If not, please rename or create the folder on your computer. |
-| No video output | **If you are using HDMI for HD video output:** Check if the HDMI port is properly connected to the TV and to the WF270HD. Also check if the video input mode of the TV is set to HDMI. **If you are using RCA for SD video output:** Check if the RCA jacks are properly connected to the TV and the WF270HD. Also check if the video input mode of the TV is set to AV or VIDEO. |
-| Echo of microphone is too high or too low | Press the [ECHO] button on your remote control, then press the [] buttons to adjust the echo level of microphone. |
-| Microphone volume is too high or too low | Press the [MIC 1] or [MIC 2] button on your remote control, then press the [] buttons to adjust microphone volume. |
+| MD5 | c88c599710932a5e23216db5f077bf78 |
+| SHA-256 | b012c6a48a9d2190d2c9f402cdc79d2b4bc1353802f01409389c052d3b246862 |
