@@ -125,5 +125,10 @@ Make sure the computer is connected to the Internet before accessing and adding 
 # File Checksums
 | Algorithm | Hash |
 | -- | -- |
-| MD5 | c88c599710932a5e23216db5f077bf78 |
-| SHA-256 | b012c6a48a9d2190d2c9f402cdc79d2b4bc1353802f01409389c052d3b246862 |
+MD5	| c88c599710932a5e23216db5f077bf78
+SHA-1	| c4b2ef18099f77226dd59c2fc8d59789a803ca8e
+SHA-256	| b012c6a48a9d2190d2c9f402cdc79d2b4bc1353802f01409389c052d3b246862
+Vhash	| 096056651d15555260d02002300a51z12z110f5z804008d03dz
+Authentihash	| e6c50f6207ebd4e0bc015f9e9fa96b304a6ca70f75b16f9d29d72d765b8f3ea6
+Imphash	| 3300293493b4177ca048ab04986f8ad3
+Rich PE header hash	| c96a0d7698dc2735e9492f7adf387994
